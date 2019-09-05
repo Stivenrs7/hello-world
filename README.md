@@ -1,4 +1,4 @@
 # hello-world
-GitHub personal repository
-Yo! 
-Start learning how to code and how to leverage the learnings in GitHub
+Hey community,
+This is Stiven learning a little bit more about CS. Not a developer or anything, just interested in broadening my skills set.
+Best,
